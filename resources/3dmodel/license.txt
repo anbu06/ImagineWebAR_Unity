@@ -1,0 +1,11 @@
+Model Information:
+* title:	Deadpool Animation
+* source:	https://sketchfab.com/3d-models/deadpool-animation-895a9909ab7f47b1bb77e48a87649edf
+* author:	neshallads (https://sketchfab.com/neshallads)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Deadpool Animation" (https://sketchfab.com/3d-models/deadpool-animation-895a9909ab7f47b1bb77e48a87649edf) by neshallads (https://sketchfab.com/neshallads) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
